@@ -1,0 +1,22 @@
+{
+  "name": "@mkhalidkhan/standard-html-formatter",
+  "version": "0.0.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "standard",
+    "html",
+    "formatter",
+    "angular",
+    "blade formatter",
+    "component"
+  ],
+  "author": "Khalid Khan <[kkhan8802@gmail.com](mailto:kkhan8802@gmail.com)>",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.2.2"
+  }
+}
