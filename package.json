@@ -1,10 +1,14 @@
 {
   "name": "@mkhalidkhan/standard-html-formatter",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kkhanhm/standard-html-formatter.git"
   },
   "keywords": [
     "standard",
@@ -15,7 +19,7 @@
     "component"
   ],
   "author": "Khalid Khan <[kkhan8802@gmail.com](mailto:kkhan8802@gmail.com)>",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "jest": "^29.2.2"
   }
